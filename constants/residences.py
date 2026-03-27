@@ -14,19 +14,19 @@ RADHAKRISHNAN_BHAWAN = 'rkb'
 RAJENDRA_BHAWAN = 'rjb'
 RAJIV_BHAWAN = 'rgb'
 RAVINDRA_BHAWAN = 'rvb'
-HIMALAYA_BHAWAN_BOYS = 'hlb'
+VIVEKANANDA_BHAWAN = 'vvb'
 BOYS_HOSTELS = (
-    (AZAD_BHAWAN, 'Azad bhawan'),
-    (CAUTLEY_BHAWAN, 'Cautley bhawan'),
-    (GANGA_BHAWAN, 'Ganga bhawan'),
-    (GOVIND_BHAWAN, 'Govind bhawan'),
-    (JAWAHAR_BHAWAN, 'Jawahar bhawan'),
-    (MALVIYA_BHAWAN, 'Malviya bhawan'),
-    (RADHAKRISHNAN_BHAWAN, 'Radhakrishnan bhawan'),
-    (RAJENDRA_BHAWAN, 'Rajendra bhawan'),
-    (RAJIV_BHAWAN, 'Rajiv bhawan'),
-    (RAVINDRA_BHAWAN, 'Ravindra bhawan'),
-    (HIMALAYA_BHAWAN_BOYS,'Himalaya bhawan (boys)')
+    (AZAD_BHAWAN, 'Azad Bhawan'),
+    (CAUTLEY_BHAWAN, 'Cautley Bhawan'),
+    (GANGA_BHAWAN, 'Ganga Bhawan'),
+    (GOVIND_BHAWAN, 'Govind Bhawan'),
+    (JAWAHAR_BHAWAN, 'Jawahar Bhawan'),
+    (MALVIYA_BHAWAN, 'Malviya Bhawan'),
+    (RADHAKRISHNAN_BHAWAN, 'Radhakrishnan Bhawan'),
+    (RAJENDRA_BHAWAN, 'Rajendra Bhawan'),
+    (RAJIV_BHAWAN, 'Rajiv Bhawan'),
+    (RAVINDRA_BHAWAN, 'Ravindra Bhawan'),
+    (VIVEKANANDA_BHAWAN,'Vivekananda Bhawan')
 )
 
 # Girls' hostels
@@ -36,14 +36,14 @@ KASTURBA_BHAWAN = 'kgb'
 INDIRA_BHAWAN = 'igb'
 VIGYAN_BHAWAN_GIRLS = 'vbg'
 HIMGIRI_APARTMENT = 'hia'
-HIMALAYA_BHAWAN_GIRLS = 'hlg'
+HIMALAYA_BHAWAN = 'hlg'
 GIRLS_HOSTELS = (
-    (SAROJINI_BHAWAN, 'Sarojini bhawan'),
-    (KASTURBA_BHAWAN, 'Kasturba bhawan'),
-    (INDIRA_BHAWAN, ' Indira bhawan'),
-    (VIGYAN_BHAWAN_GIRLS, 'Vigyan bhawan (girls)'),
+    (SAROJINI_BHAWAN, 'Sarojini Bhawan'),
+    (KASTURBA_BHAWAN, 'Kasturba Bhawan'),
+    (INDIRA_BHAWAN, ' Indira Bhawan'),
+    (VIGYAN_BHAWAN_GIRLS, 'Vigyan Bhawan (girls)'),
     (HIMGIRI_APARTMENT, 'Himgiri apartment'),
-    (HIMALAYA_BHAWAN_GIRLS, 'Himalaya bhawan (girls)')
+    (HIMALAYA_BHAWAN, 'Himalaya Bhawan')
 )
 
 # Married hostels
@@ -62,7 +62,7 @@ MARRIED_HOSTELS = (
     (DS_BARRACK, 'D.S. Barrack hostel'),
     (AN_KHOSLA_HOUSE, 'A.N. Khosla house'),
     (KHOSLA_INTERNATIONAL_HOUSE, 'Khosla international house (stay)'),
-    (VIDYASAGAR_BHAWAN, 'Vidyasagar bhawan')
+    (VIDYASAGAR_BHAWAN, 'Vidyasagar Bhawan')
 )
 
 # Guest houses
@@ -88,7 +88,7 @@ HILL_VIEW_APARTMENTS = 'hva'
 FACULTY_RESIDENCES = 'far'
 DOCTORAL_RESIDENCES = 'doc'
 UNCLASSIFIED_RESIDENCES = (
-    (VIGYAN_BHAWAN, 'Vigyan bhawan'),
+    (VIGYAN_BHAWAN, 'Vigyan Bhawan'),
     (VIKAS_NAGAR, 'Vikas nagar'),
     (NITI_NAGAR, 'Niti nagar'),
     (JAI_KRISHNA_HOUSE, 'Jai Krishna house'),
