@@ -11,6 +11,7 @@ INTEGRATED_MASTER_OF_SCIENCE = 'imsc'
 INTEGRATED_MASTER_OF_TECHNOLOGY = 'imt'
 BACHELOR_OF_SCIENCE_MASTER_OF_SCIENCE = 'bsms'
 BACHELOR_OF_DESIGN = 'bdes'
+BACHELOR_OF_SCIENCE_4Y = 'bs'
 
 GRADUATE_DEGREES = (
     (
@@ -44,7 +45,11 @@ GRADUATE_DEGREES = (
     (
         BACHELOR_OF_DESIGN,
         'B.Des. - Bachelor of Design',
-    )
+    ),
+    (
+        BACHELOR_OF_SCIENCE_4Y, 
+        'BS - Bachelor of Science',
+    ),
 )
 
 # Postgraduate degrees

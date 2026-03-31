@@ -8,7 +8,10 @@ CENTRE_FOR_NANOTECHNOLOGY = 'cnt'
 CENTRE_FOR_ARITFICIAL_INTELLIGENCE_AND_DATA_SCIENCE = 'caids'
 CONTINUING_EDUCATION_CENTRE_AND_QIP_CENTRE = 'cecqc'
 MEHTA_FAMILY_SCHOOL_OF_DATA_SCIENCE_AND_ARTIFICIAL_INTELLIGENCE = 'mfsdsai'
-CENTER_FOR_SPACE_SCIENCE_AND_TECHNOLOGY = 'csst'
+CENTRE_FOR_SPACE_SCIENCE_AND_TECHNOLOGY = 'csst'
+CENTRE_FOR_INDIAN_KNOWLEDGE_SYSTEM = 'ciks'
+CENTRE_FOR_PHOTONICS_AND_QUANTUM_COMMUNICATION_TECHNOLOGY = 'cpqct'
+CENTRE_FOR_SUSTAINABLE_ENERGY = 'cfse'
 
 ACADEMIC_CENTRES = (
     (
@@ -28,13 +31,25 @@ ACADEMIC_CENTRES = (
         'Continuing Education Centre and QIP Centre'
     ),
     (
-        CENTER_FOR_SPACE_SCIENCE_AND_TECHNOLOGY,
-        'Center for Space Science and Technology'
+        CENTRE_FOR_SPACE_SCIENCE_AND_TECHNOLOGY,
+        'Centre for Space Science and Technology'
     ),
     (
         MEHTA_FAMILY_SCHOOL_OF_DATA_SCIENCE_AND_ARTIFICIAL_INTELLIGENCE,
         'Mehta Family School of Data Science and Artificial Intelligence'
-    )
+    ),
+    (
+        CENTRE_FOR_INDIAN_KNOWLEDGE_SYSTEM,
+        'Centre for Indian Knowledge System'
+    ),
+    (
+        CENTRE_FOR_PHOTONICS_AND_QUANTUM_COMMUNICATION_TECHNOLOGY,
+        'Centre for Photonics and Quantum Communication Technology'
+    ),
+    (
+        CENTRE_FOR_SUSTAINABLE_ENERGY,
+        'Centre for Sustainable Energy'
+    ),
 )
 
 # Centres of excellence
